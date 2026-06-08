@@ -1,8 +1,16 @@
 {
   "name": "basavarajmn",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "My npx card",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Basavaraj8143/basu-card.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Basavaraj8143/basu-card/issues"
+  },
+  "homepage": "https://github.com/Basavaraj8143/basu-card#readme",
   "bin": {
     "basavarajmn": "index.js"
   },
