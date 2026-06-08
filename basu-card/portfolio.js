@@ -1,54 +1,19 @@
 export const portfolioData = {
   profile: {
     name: "Basavaraj Ningasani",
-    shortName: "Basavaraj",
-    role: "CSE Student | Aspiring Software Engineer",
-    title: "Basavaraj Ningasani | Portfolio",
-    bio: "I love building practical projects, learning daily, and solving real-world problems with software.",
-    summary: "Computer Science student passionate about problem solving, full-stack development, and building impactful products.",
-    location: "Karnataka, India",
+    role: "CSE Student | Aspiring Software Engineer | Full-Stack Developer",
     email: "basavarajningasani123@gmail.com",
-    phone: "+91 7019910124",
-    resume: "/resume.pdf",
     social: {
       github: "https://github.com/Basavaraj8143",
-      linkedin: "https://linkedin.com/in/basavaraj-ningasani-0796712a5",
-      twitter: ""
+      linkedin: "https://linkedin.com/in/basavaraj-ningasani-0796712a5"
     }
   },
-
-  about: {
-    focus: "Web Development, DBMS Projects, and Problem Solving",
-    interests: "AI Tools, Full-Stack Projects, Hackathons",
-    goal: "Securing a good job and growing in tech industry"
-  },
-
-  education: [
-    {
-      degree: "Bachelor of Engineering",
-      branch: "Computer Science & Engineering",
-      institute: "KLE Institute of Technology, Hubli",
-      duration: "2023 - 2027",
-      status: "Ongoing",
-      cgpa: "8.43/10",
-      semester: "6th completed"
-    }
-  ],
 
   skills: {
     frontend: ["HTML5", "CSS3", "JavaScript", "React", "Next.js"],
     backend: ["Node.js", "Python", "Express", "Django", "REST APIs"],
-    database: ["MySQL", "PostgreSQL", "MongoDB", "Firebase", "Redis"],
-    tools: ["Git", "Docker", "VS Code", "Postman", "Figma"],
-    languages: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
-    others: ["AWS", "Linux", "Agile", "CI/CD", "Testing"]
+    database: ["MySQL", "PostgreSQL", "MongoDB", "Firebase", "Redis"]
   },
-
-  techTicker: [
-    "React", "Next.js", "TypeScript", "Tailwind CSS", "Node.js", "Python", "Django",
-    "MongoDB", "PostgreSQL", "MySQL", "Firebase", "Redis", "Docker", "Git",
-    "JavaScript", "HTML5", "CSS3", "Linux", "AWS", "Figma"
-  ],
 
   projects: [
     {
@@ -144,21 +109,5 @@ export const portfolioData = {
       badge: "Excellence",
       link: "https://www.mygreatlearning.com/certificate/KAFSXQDV"
     }
-  ],
-
-  contact: {
-    internshipInterests: [
-      "Backend Development & API Design",
-      "Full-Stack Web Development",
-      "Database Management",
-      "Cloud Computing & DevOps"
-    ],
-    formspreeEndpoint: "https://formspree.io/f/xvgqeqob"
-  },
-
-  nav: ["Home", "About", "Education", "Skills", "Projects", "Open Source", "Hackathons", "Certificates", "Contact"]
+  ]
 };
-
-
-
-this is reffrence 
